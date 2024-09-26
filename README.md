@@ -2,7 +2,7 @@
 
 A website that includes an image of a car. The wheels of the car are clickable as they redirect the user to a google search of the word "wheels". As shown in the [demonstration](https://youtu.be/Xzpy4AAUVxY).
 
-It's a task for the ITI HTML/ CSS course. Check the [Click On Wheels](https://aya-hegab.github.io/click_on_wheels-html_css-day1_task1-iti/) website.
+A task for the ITI on day 1 of the HTML/ CSS course. Check the [Click On Wheels](https://aya-hegab.github.io/click_on_wheels-html_css-day1_task1-iti/) website.
 
 ## Requirements:
 
